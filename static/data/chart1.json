@@ -23,6 +23,39 @@
                     "green"
                 ],
                 "borderWidth": 1
+            },
+            {
+                "label": "Line 3",
+                "data": [3,5,8,13,15,19,23],
+                "backgroundColor": [
+                    "green"
+                ],
+                "borderColor": [
+                    "green"
+                ],
+                "borderWidth": 1
+            },
+            {
+                "label": "Line 4",
+                "data": [3,5,8,13,15,19,23],
+                "backgroundColor": [
+                    "green"
+                ],
+                "borderColor": [
+                    "green"
+                ],
+                "borderWidth": 1
+            },
+            {
+                "label": "Line 5",
+                "data": [3,5,8,13,15,19,23],
+                "backgroundColor": [
+                    "green"
+                ],
+                "borderColor": [
+                    "green"
+                ],
+                "borderWidth": 1
             }
         ]
     },
