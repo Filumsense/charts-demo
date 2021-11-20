@@ -16,7 +16,7 @@ function drawChart(path, ctx) {
         });
 }
 
-drawChart('/static/data/chart1.json', chart1Ctx)
-drawChart('/static/data/chart2.json', chart2Ctx)
-drawChart('/static/data/chart3.json', chart3Ctx)
-drawChart('/static/data/chart4.json', chart4Ctx)
+drawChart('./static/data/chart1.json', chart1Ctx)
+drawChart('./static/data/chart2.json', chart2Ctx)
+drawChart('./static/data/chart3.json', chart3Ctx)
+drawChart('./static/data/chart4.json', chart4Ctx)
