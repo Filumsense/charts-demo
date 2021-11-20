@@ -47,7 +47,7 @@
                 "borderWidth": 1
             },
             {
-                "label": "Real PSI",
+                "label": "Press PSI",
                 "data": [0,0,1000,2200,3600,4950,6350],
                 "backgroundColor": [
                     "black"

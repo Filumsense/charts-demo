@@ -1,18 +1,62 @@
 {
    "data": {
-       "labels": [1,2,3,4,5,6],
+       "labels": [1,5,10,24,48,168,672],
        "datasets": [
            {
-               "label": "Line 1",
-               "data": [3,5,8,13,15,19],
+               "label": "Sensor 1",
+               "data": [0,400,1200,2350,3570,4900,6150],
                "backgroundColor": [
-                   "#34ebcf"
+                   "yellow"
                ],
                "borderColor": [
-                   "#34ebcf"
+                   "yellow"
                ],
                "borderWidth": 1
-           }
+           },
+           {
+            "label": "Sensor 2",
+            "data": [0,200,1250,2700,4000,4900,6500],
+            "backgroundColor": [
+                "green"
+            ],
+            "borderColor": [
+                "green"
+            ],
+            "borderWidth": 1
+        },
+        {
+            "label": "Sensor 3",
+            "data": [0,400,900,2000,3350,4700,5900],
+            "backgroundColor": [
+                "red"
+            ],
+            "borderColor": [
+                "red"
+            ],
+            "borderWidth": 1
+        },
+        {
+            "label": "Ave. Prediction",
+            "data": [0,400,1200,2350,3570,4900,6150],
+            "backgroundColor": [
+                "orange"
+            ],
+            "borderColor": [
+                "orange"
+            ],
+            "borderWidth": 1
+        },
+        {
+            "label": "Press PSI",
+            "data": [0,400,1200,2350,3570,4900,6150],
+            "backgroundColor": [
+                "black"
+            ],
+            "borderColor": [
+                "black"
+            ],
+            "borderWidth": 1
+        }
        ]
    },
    "options": {
