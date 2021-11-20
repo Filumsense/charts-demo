@@ -1,12 +1,34 @@
 {
     "data": {
-        "labels": [1,2,3,4,5,6,7],
+        "labels": [1,5,10,24,48,167,672],
         "datasets": [
             {
-                "label": "Line 1",
-                "data": [3,5,8,13,15,19,25],
+                "label": "Sensor 1",
+                "data": [0,400,1200,2350,3570,4900,6150],
                 "backgroundColor": [
                     "yellow"
+                ],
+                "borderColor": [
+                    "yellow"
+                ],
+                "borderWidth": 1
+            },
+            {
+                "label": "Sensor 2",
+                "data": [0,500,1250,2450,3600,5100,6300],
+                "backgroundColor": [
+                    "green"
+                ],
+                "borderColor": [
+                    "green"
+                ],
+                "borderWidth": 1
+            },
+            {
+                "label": "Sensor 3",
+                "data": [0,200,1200,2350,3570,5000,6100],
+                "backgroundColor": [
+                    "red"
                 ],
                 "borderColor": [
                     "red"
@@ -14,46 +36,24 @@
                 "borderWidth": 1
             },
             {
-                "label": "Line 2",
-                "data": [3,5,8,13,15,19,23],
+                "label": "Ave. Prediction",
+                "data": [0,300,1200,2350,3550,4950,6200],
                 "backgroundColor": [
-                    "green"
+                    "orange"
                 ],
                 "borderColor": [
-                    "green"
+                    "orange"
                 ],
                 "borderWidth": 1
             },
             {
-                "label": "Line 3",
-                "data": [3,5,8,13,15,19,23],
+                "label": "Real PSI",
+                "data": [0,0,1000,2200,3600,4950,6350],
                 "backgroundColor": [
-                    "green"
+                    "black"
                 ],
                 "borderColor": [
-                    "green"
-                ],
-                "borderWidth": 1
-            },
-            {
-                "label": "Line 4",
-                "data": [3,5,8,13,15,19,23],
-                "backgroundColor": [
-                    "green"
-                ],
-                "borderColor": [
-                    "green"
-                ],
-                "borderWidth": 1
-            },
-            {
-                "label": "Line 5",
-                "data": [3,5,8,13,15,19,23],
-                "backgroundColor": [
-                    "green"
-                ],
-                "borderColor": [
-                    "green"
+                    "black"
                 ],
                 "borderWidth": 1
             }
