@@ -1,0 +1,42 @@
+{
+    "data": {
+        "labels": [1,2,3,4,5,6],
+        "datasets": [
+            {
+                "label": "Line 1",
+                "data": [3,5,8,13,15,19],
+                "backgroundColor": [
+                    "#34ebcf"
+                ],
+                "borderColor": [
+                    "#34ebcf"
+                ],
+                "borderWidth": 1
+            }
+        ]
+    },
+    "options": {
+        "scales": {
+            "y": {
+                "beginAtZero": true,
+                "title": {
+                    "text": "Strength (PSI)",
+                    "display": true,
+                    "font": {
+                        "size": 16
+                    }
+                }
+            },
+            "x": {
+                "beginAtZero": true,
+                "title": {
+                   "text": "Time (h)",
+                   "display": true,
+                   "font": {
+                      "size": 16
+                   }
+                }
+             }
+        }
+    }
+}

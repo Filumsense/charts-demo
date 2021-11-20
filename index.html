@@ -1,0 +1,66 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SAMPLE TITLE (CHANGE)</title>
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="static/css/style.css">
+</head>
+
+<body>
+    <div class="container mx-auto p-1 font-sans">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
+            <div class="space-y-6">
+                <div class="text-center">
+                    <p class="font-semibold">Device 1</p>
+                </div>
+                <div><canvas id="chart1"></canvas></div>
+                <div><canvas id="chart2"></canvas></div>
+                <div class="flex flex-col pl-6">
+                    <div>
+                        <p class="font-semibold">Notes:</p>
+                    </div>
+                    <div>
+                        <p>Location:</p>
+                    </div>
+                    <div>
+                        <p>Info:</p>
+                    </div>
+                    <div>
+                        <p>Info:</p>
+                    </div>
+                </div>
+            </div>
+            <div class="space-y-6">
+                <div class="text-center">
+                    <p class="font-semibold">Device 2</p>
+                </div>
+                <div><canvas id="chart3"></canvas></div>
+                <div><canvas id="chart4"></canvas></div>
+                <div class="flex flex-col pl-6">
+                    <div>
+                        <p class="font-semibold">Notes:</p>
+                    </div>
+                    <div>
+                        <p>Location:</p>
+                    </div>
+                    <div>
+                        <p>Info:</p>
+                    </div>
+                    <div>
+                        <p>Info:</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.6.0/chart.min.js"
+        integrity="sha512-GMGzUEevhWh8Tc/njS0bDpwgxdCJLQBWG3Z2Ct+JGOpVnEmjvNx6ts4v6A2XJf1HOrtOsfhv3hBKpK9kE5z8AQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="static/js/index.js"></script>
+</body>
+
+</html>
