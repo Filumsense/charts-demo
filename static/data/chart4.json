@@ -6,10 +6,10 @@
               "label": "Temp 1",
               "data": [3,5,8,13,15,19,15],
               "backgroundColor": [
-                  "#34ebcf"
+                  "yellow"
               ],
               "borderColor": [
-                  "#34ebcf"
+                  "yellow"
               ],
               "borderWidth": 1
           },
@@ -17,10 +17,10 @@
             "label": "Temp 2",
             "data": [33,24,44,8,22,25,25],
             "backgroundColor": [
-                "blue"
+                "green"
             ],
             "borderColor": [
-                "blue"
+                "green"
             ],
             "borderWidth": 1
         },
@@ -28,10 +28,10 @@
             "label": "Ave. Temp",
             "data": [33,24,44,28,28,22,25],
             "backgroundColor": [
-                "blue"
+                "orange"
             ],
             "borderColor": [
-                "blue"
+                "orange"
             ],
             "borderWidth": 1
         },
@@ -39,10 +39,10 @@
             "label": "Outside Temp",
             "data": [13,14,14,8,12,15,12],
             "backgroundColor": [
-                "blue"
+                "red"
             ],
             "borderColor": [
-                "blue"
+                "red"
             ],
             "borderWidth": 1
         }
