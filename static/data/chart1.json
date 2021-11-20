@@ -1,15 +1,26 @@
 {
     "data": {
-        "labels": [1,2,3,4,5,6],
+        "labels": [1,2,3,4,5,6,7],
         "datasets": [
             {
                 "label": "Line 1",
-                "data": [3,5,8,13,15,19],
+                "data": [3,5,8,13,15,19,25],
                 "backgroundColor": [
                     "#34ebcf"
                 ],
                 "borderColor": [
                     "#34ebcf"
+                ],
+                "borderWidth": 1
+            },
+            {
+                "label": "Line 2",
+                "data": [3,5,8,13,15,19,23],
+                "backgroundColor": [
+                    "green"
+                ],
+                "borderColor": [
+                    "green"
                 ],
                 "borderWidth": 1
             }
