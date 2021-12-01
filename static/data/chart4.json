@@ -4,7 +4,7 @@
       "datasets": [
           {
               "label": "Temp 1",
-              "data": [0,0,0,0,0,0,0],
+              "data": [17.2,19.8,24.5,27.1,20.4,20.3,20.1],
               "backgroundColor": [
                   "yellow"
               ],
@@ -15,7 +15,7 @@
           },
           {
             "label": "Temp 2",
-            "data": [0,0,0,0,0,0,0],
+            "data": [16.8,19.2,24.3,26.9,20.1,20.2,20.2],
             "backgroundColor": [
                 "green"
             ],
@@ -26,7 +26,7 @@
         },
         {
             "label": "Ave. Temp",
-            "data": [0,0,0,0,0,0,0],
+            "data": [17,19.5,24.4,27,20.3,20.3,20.2],
             "backgroundColor": [
                 "orange"
             ],
@@ -37,7 +37,7 @@
         },
         {
             "label": "Outside Temp",
-            "data": [0,0,0,0,0,0,0],
+            "data": [18.2,19.2,19.7,19.5,20.5,20.4,20.3,20.3],
             "backgroundColor": [
                 "red"
             ],
