@@ -20,7 +20,7 @@
            "y": {
                "beginAtZero": true,
                "title": {
-                   "text": "Shrinkage (PSI)",
+                   "text": "Shrinkage (???)",
                    "display": true,
                    "font": {
                        "size": 16
