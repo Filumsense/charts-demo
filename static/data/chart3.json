@@ -3,8 +3,8 @@
        "labels": [1,6,11.5,19,24,28,35,48,56,72,80,102,126,174,246,678],
        "datasets": [
            {
-               "label": "Sensor 1",
-               "data": [0,0,1200,2350,2500,2840,3450,4100,4620,5300,5500,5890,6500,6750,7350,8770],
+               "label": "Shrinkage Ave.",
+               "data": [0,0,0,0,0,0,0],
                "backgroundColor": [
                    "yellow"
                ],
@@ -12,51 +12,7 @@
                    "yellow"
                ],
                "borderWidth": 1
-           },
-           {
-            "label": "Sensor 2",
-            "data": [0,0,1100,2260,2390,2740,3300,3990,4570,5210,5390,5990,6600,6820,7410,8800],
-            "backgroundColor": [
-                "green"
-            ],
-            "borderColor": [
-                "green"
-            ],
-            "borderWidth": 1
-        },
-        {
-            "label": "Sensor 3",
-            "data": [0,0,1370,2440,2570,2880,3520,4300,4720,5390,5570,6100,6670,6900,7460,8840],
-            "backgroundColor": [
-                "red"
-            ],
-            "borderColor": [
-                "red"
-            ],
-            "borderWidth": 1
-        },
-        {
-            "label": "Ave. Prediction",
-            "data": [0,0,1225,2350,2490,2820,3425,4130,4635,5300,5485,5995,6590,6825,7405,8805],
-            "backgroundColor": [
-                "orange"
-            ],
-            "borderColor": [
-                "orange"
-            ],
-            "borderWidth": 1
-        },
-        {
-            "label": "Press PSI",
-            "data": [0,0,0,0,2785,3155,4000,4700,5160,6165,6220,7320,8180,8255,8780],
-            "backgroundColor": [
-                "black"
-            ],
-            "borderColor": [
-                "black"
-            ],
-            "borderWidth": 1
-        }
+           }
        ]
    },
    "options": {
@@ -64,7 +20,7 @@
            "y": {
                "beginAtZero": true,
                "title": {
-                   "text": "Strength (PSI)",
+                   "text": "Shrinkage (PSI)",
                    "display": true,
                    "font": {
                        "size": 16
