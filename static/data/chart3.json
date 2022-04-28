@@ -1,15 +1,15 @@
 {
    "data": {
-       "labels": [0],
+       "labels": [0.05, 0.1, 0.15, 0.2],
        "datasets": [
            {
-               "label": "Shrinkage Ave.",
-               "data": [0],
+               "label": "SHM(%)",
+               "data": [87,91,92,92],
                "backgroundColor": [
-                   "red"
+                   "green"
                ],
                "borderColor": [
-                   "red"
+                   "green"
                ],
                "borderWidth": 1
            }
@@ -30,7 +30,7 @@
            "x": {
                "beginAtZero": true,
                "title": {
-                  "text": "Time (h)",
+                  "text": "Time (y)",
                   "display": true,
                   "font": {
                      "size": 16
