@@ -30,7 +30,7 @@
            "x": {
                "beginAtZero": true,
                "title": {
-                  "text": "Time (y)",
+                  "text": "Time (year 0.1=36days)",
                   "display": true,
                   "font": {
                      "size": 16
