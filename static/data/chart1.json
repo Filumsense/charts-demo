@@ -6,21 +6,21 @@
                 "label": "Corrosion",
                 "data": [0,0,0,0,0,1,1,1,2,2],
                 "backgroundColor": [
-                    "yellow"
+                    "green"
                 ],
                 "borderColor": [
-                    "yellow"
+                    "green"
                 ],
                 "borderWidth": 1
             },
             {
                 "label": "Concrete Cracks",
-                "data": [0,0,0,0,0,0,0,0,0,0],
+                "data": [0,7,2,1,0,0,0,0,0,0],
                 "backgroundColor": [
-                    "green"
+                    "grey"
                 ],
                 "borderColor": [
-                    "green"
+                    "grey"
                 ],
                 "borderWidth": 1
             },
@@ -37,12 +37,12 @@
             },
             {
                 "label": "Leakage",
-                "data": [0,0,10,3,2,0,0,0,0,0],
+                "data": [0,0,10,1,0,0,0,0,0,0],
                 "backgroundColor": [
-                    "orange"
+                    "blue"
                 ],
                 "borderColor": [
-                    "orange"
+                    "blue"
                 ],
                 "borderWidth": 1
             }

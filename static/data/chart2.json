@@ -6,10 +6,10 @@
               "label": "Inside Ave. Temp",
               "data": [25,29,21,28,23,28,22,27,21,28,22],
               "backgroundColor": [
-                  "yellow"
+                  "orange"
               ],
               "borderColor": [
-                  "yellow"
+                  "orange"
               ],
               "borderWidth": 1
           },

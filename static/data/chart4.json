@@ -4,12 +4,12 @@
       "datasets": [
         {
             "label": "Humidity",
-            "data": [78,72,99,90,85,73,71,69,67,65],
+            "data": [78,72,99,82,75,69,71,69,67,65],
             "backgroundColor": [
-                "red"
+                "blue"
             ],
             "borderColor": [
-                "red"
+                "blue"
             ],
             "borderWidth": 1
         }
