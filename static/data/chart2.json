@@ -3,8 +3,8 @@
       "labels": [1,6,12,18,24,30,36,42,48,54,60],
       "datasets": [
           {
-              "label": "Box Ave. Temp ",
-              "data": [17,12,13,17.5,15,15.5,13,14,15.5,14.5,18,18],
+              "label": "Inside Ave. Temp",
+              "data": [25,29,21,28,23,28,22,27,21,28,22],
               "backgroundColor": [
                   "yellow"
               ],
@@ -14,24 +14,13 @@
               "borderWidth": 1
           },
           {
-            "label": "Norht Ave. Temp",
-            "data": [17,24,24,23,22,16,15,16,17,16.5,19,20],
+            "label": "Environment Ave. Temp",
+            "data": [25,29,21,30,23,28,19,27,18,28,16],
             "backgroundColor": [
                 "green"
             ],
             "borderColor": [
                 "green"
-            ],
-            "borderWidth": 1
-        },
-        {
-            "label": "South Ave. Temp",
-            "data": [17,23,23.5,26,23.5,18,17,19,18,17.5,19.5,21],
-            "backgroundColor": [
-                "orange"
-            ],
-            "borderColor": [
-                "orange"
             ],
             "borderWidth": 1
         }
@@ -52,7 +41,7 @@
            "x": {
             "beginAtZero": true,
             "title": {
-               "text": "Time (h)",
+               "text": "Time (month)",
                "display": true,
                "font": {
                   "size": 16

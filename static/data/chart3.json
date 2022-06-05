@@ -4,7 +4,7 @@
        "datasets": [
            {
                "label": "SHM(%)",
-               "data": [87,91,92],
+               "data": [87,91,92,87,85,83,81,80,80,78,78],
                "backgroundColor": [
                    "green"
                ],
@@ -30,7 +30,7 @@
            "x": {
                "beginAtZero": true,
                "title": {
-                  "text": "Time (year 0.1=36days)",
+                  "text": "Time (month)",
                   "display": true,
                   "font": {
                      "size": 16

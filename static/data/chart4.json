@@ -3,8 +3,8 @@
       "labels": [1,6,12,18,24,30,36,42,48,54,60],
       "datasets": [
         {
-            "label": "Outside Temp",
-            "data": [17,9,11,12,14,16,14,15,17,16,21,22],
+            "label": "Humidity",
+            "data": [78,72,99,90,85,73,71,69,67,65],
             "backgroundColor": [
                 "red"
             ],
@@ -20,7 +20,7 @@
            "y": {
                "beginAtZero": true,
                "title": {
-                   "text": "Temp (°C)",
+                   "text": "Percent (%)",
                    "display": true,
                    "font": {
                        "size": 16
@@ -30,7 +30,7 @@
            "x": {
             "beginAtZero": true,
             "title": {
-               "text": "Time (h)",
+               "text": "Time (month)",
                "display": true,
                "font": {
                   "size": 16
