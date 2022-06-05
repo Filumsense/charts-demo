@@ -4,7 +4,7 @@
       "datasets": [
           {
               "label": "Inside Ave. Temp",
-              "data": [25,29,21,28,23,28,22,27,21,28,22],
+              "data": [25,29,21,28,23,28,22,27,21,28],
               "backgroundColor": [
                   "orange"
               ],
@@ -15,7 +15,7 @@
           },
           {
             "label": "Environment Ave. Temp",
-            "data": [25,29,21,30,23,28,19,27,18,28,16],
+            "data": [25,29,21,30,23,28,19,27,18,28],
             "backgroundColor": [
                 "green"
             ],
