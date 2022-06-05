@@ -1,10 +1,10 @@
 {
     "data": {
-        "labels": [28,72,96,120,168,336,672],
+        "labels": [1,6,12,18,24,30,36,42,48,54,60],
         "datasets": [
             {
-                "label": "Box Sensor ",
-                "data": [0, 870,2611,3046,3336,4150,4450,5150],
+                "label": "Corrosion",
+                "data": [0,0,0,0,0,1,1,1,2,2,2],
                 "backgroundColor": [
                     "yellow"
                 ],
@@ -14,8 +14,8 @@
                 "borderWidth": 1
             },
             {
-                "label": "Slab North Sensor",
-                "data": [0,1595,3191,4025,4351,4930,5050,5300],
+                "label": "Concrete Cracks",
+                "data": [0,0,0,0,0,0,0,0,0,0,0],
                 "backgroundColor": [
                     "green"
                 ],
@@ -25,8 +25,8 @@
                 "borderWidth": 1
             },
             {
-                "label": "Slab South Sensor",
-                "data": [0,1885,3626,4206,5100,5076,5350,5700],
+                "label": "Air Pockets",
+                "data": [0,0,0,0,0,0,0,0,0,0,0],
                 "backgroundColor": [
                     "red"
                 ],
@@ -36,24 +36,13 @@
                 "borderWidth": 1
             },
             {
-                "label": "Ave. Prediction",
-                "data": [0,1450,3142,3759,4262,4719,4950,5383],
+                "label": "Leakage",
+                "data": [0,0,4,3,2,0,0,0,0,0,0],
                 "backgroundColor": [
                     "orange"
                 ],
                 "borderColor": [
                     "orange"
-                ],
-                "borderWidth": 1
-            },
-            {
-                "label": "Press PSI",
-                "data": [0,1233,3336,3590,4061,4496,4641],
-                "backgroundColor": [
-                    "black"
-                ],
-                "borderColor": [
-                    "black"
                 ],
                 "borderWidth": 1
             }
@@ -74,7 +63,7 @@
             "x": {
                 "beginAtZero": true,
                 "title": {
-                   "text": "Time (h)",
+                   "text": "Time (month)",
                    "display": true,
                    "font": {
                       "size": 16
