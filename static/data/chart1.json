@@ -53,7 +53,7 @@
             "y": {
                 "beginAtZero": true,
                 "title": {
-                    "text": "Strength (PSI)",
+                    "text": "0-10 Scale (a.u.)",
                     "display": true,
                     "font": {
                         "size": 16
