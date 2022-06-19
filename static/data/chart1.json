@@ -31,7 +31,7 @@
             "y": {
                 "beginAtZero": true,
                 "title": {
-                    "text": "0-10 Scale (a.u.)",
+                    "text": "חוזק קוביה - מגע פקסל",
                     "display": true,
                     "font": {
                         "size": 16
@@ -41,7 +41,7 @@
             "x": {
                 "beginAtZero": true,
                 "title": {
-                   "text": "זמן (שעות)",
+                   "text": "זמן - שעות",
                    "display": true,
                    "font": {
                       "size": 16
