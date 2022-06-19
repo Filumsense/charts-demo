@@ -17,10 +17,10 @@
                 "label": "מדידות מכבש",
                 "data": [0,0,9,23,25,28,31,32,40],
                 "backgroundColor": [
-                    "grey"
+                    "red"
                 ],
                 "borderColor": [
-                    "grey"
+                    "red"
                 ],
                 "borderWidth": 1
             }
