@@ -3,13 +3,13 @@
        "labels": [0,16,28,72,96,120,168,336,672],
        "datasets": [
            {
-               "label": "SHM(%)",
+               "label": "מדד לחות בתוך האלמנט",
                "data": [100,100,100,93,91,90,89,83,72],
                "backgroundColor": [
-                   "green"
+                   "blue"
                ],
                "borderColor": [
-                   "green"
+                   "blue"
                ],
                "borderWidth": 1
            }
@@ -20,7 +20,7 @@
            "y": {
                "beginAtZero": true,
                "title": {
-                   "text": "לחות (0-100%)",
+                   "text": "לחות 0-100%",
                    "display": true,
                    "font": {
                        "size": 16
