@@ -12,7 +12,18 @@
                    "blue"
                ],
                "borderWidth": 1
-           }
+           },
+           {
+            "label": "לחות בסביבה",
+            "data": [79,77,70,75,69,73,75,72,71],
+            "backgroundColor": [
+                "blue"
+            ],
+            "borderColor": [
+                "blue"
+            ],
+            "borderWidth": 1
+        } 
        ]
    },
    "options": {
