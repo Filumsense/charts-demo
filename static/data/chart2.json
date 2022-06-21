@@ -6,10 +6,10 @@
               "label": "טמפרטורה בתוך האלמנט",
               "data": [25,33,28,25,25,24,22,26,25],
               "backgroundColor": [
-                  "orange"
+                  "red"
               ],
               "borderColor": [
-                  "orange"
+                  "red"
               ],
               "borderWidth": 1
           },
