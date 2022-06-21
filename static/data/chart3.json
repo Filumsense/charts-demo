@@ -4,7 +4,7 @@
        "datasets": [
            {
                "label": "מדד לחות בתוך האלמנט",
-               "data": [100,100,100,93,91,90,89,83,72],
+               "data": [100,100,100,93,91,90,89,83,76],
                "backgroundColor": [
                    "blue"
                ],
@@ -17,10 +17,10 @@
             "label": "לחות בסביבה",
             "data": [79,77,70,75,69,73,75,72,71],
             "backgroundColor": [
-                "blue"
+                "red"
             ],
             "borderColor": [
-                "blue"
+                "red"
             ],
             "borderWidth": 1
         } 
