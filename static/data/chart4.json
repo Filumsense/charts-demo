@@ -28,14 +28,20 @@
                }
            },
            "x": {
-            "beginAtZero": true,
-            "title": {
-               "text": "Time (month)",
-               "display": true,
-               "font": {
-                  "size": 16
-               }
-            }
+                "type": "linear",
+                "min": 0,
+                "max": 60,
+                "ticks": {
+                    "stepSize": 5
+                },
+                "beginAtZero": true,
+                "title": {
+                    "text": "Time (month)",
+                    "display": true,
+                    "font": {
+                        "size": 16
+                    }
+                }
          }
        }
    }

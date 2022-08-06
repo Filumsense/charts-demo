@@ -39,6 +39,12 @@
                }
            },
            "x": {
+            "type": "linear",
+            "min": 0,
+            "max": 720,
+            "ticks": {
+                "stepSize": 48
+            },
             "beginAtZero": true,
             "title": {
                "text": "זמן - שעות",
