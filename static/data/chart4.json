@@ -1,10 +1,10 @@
 {
    "data": {
-      "labels": [1,6,12,18,24,30,36,42,48,54,60],
+      "labels": [0,5,12,18,21,24,36,48,60],
       "datasets": [
         {
-            "label": "Humidity",
-            "data": [78,72,99,82,75,69,71,69,67,65],
+            "label": "SHM Index",
+            "data": [50,55,75,78,0,0,0,0,0,0],
             "backgroundColor": [
                 "blue"
             ],
@@ -36,7 +36,7 @@
                 },
                 "beginAtZero": true,
                 "title": {
-                    "text": "Time (month)",
+                    "text": "Time [h]",
                     "display": true,
                     "font": {
                         "size": 16

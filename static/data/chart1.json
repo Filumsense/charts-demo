@@ -1,10 +1,10 @@
 {
     "data": {
-        "labels": [0,5,20,48,96,120,168,336,672],
+        "labels": [0,5,12,18,21,24,36,48,60],
         "datasets": [
             {
-                "label": "מדידות חיישן",
-                "data": [0,1,40,51,55,57,59,62,65],
+                "label": "Sensor Data 1",
+                "data": [0,1,5,15,0,0,0,0,0],
                 "backgroundColor": [
                     "green"
                 ],
@@ -14,8 +14,8 @@
                 "borderWidth": 1
             },
             {
-                "label": "מדידות מכבש",
-                "data": [0,0,43,0,0,0,0,0,0],
+                "label": "Press Result",
+                "data": [0,0,0,0,0,0,0,0,0],
                 "backgroundColor": [
                     "red"
                 ],
@@ -31,7 +31,7 @@
             "y": {
                 "beginAtZero": true,
                 "title": {
-                    "text": "חוזק בטון - מגפס",
+                    "text": "Concrete Strength (MPa)",
                     "display": true,
                     "font": {
                         "size": 16
@@ -46,7 +46,7 @@
                     "stepSize": 48
                 },
                 "title": {
-                   "text": "זמן - שעות",
+                   "text": "Time [h]",
                    "display": true,
                    "font": {
                       "size": 16

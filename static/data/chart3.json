@@ -1,10 +1,10 @@
 {
    "data": {
-       "labels": [0,5,20,48,96,120,168,336,672],
+       "labels": [0,5,12,18,21,24,36,48,60],
        "datasets": [
            {
-               "label": "מדד לחות בתוך האלמנט",
-               "data": [100,100,97,93,0,0,0,0,0],
+               "label": "Resistivity Index",
+               "data": [100,110,189,253,0,0,0,0,0],
                "backgroundColor": [
                    "blue"
                ],
@@ -14,8 +14,8 @@
                "borderWidth": 1
            },
            {
-            "label": "לחות בסביבה",
-            "data": [73,75,70,75,0,0,0,0,0],
+            "label": "Humidity Concrete Index",
+            "data": [100,100,99,99,0,0,0,0,0],
             "backgroundColor": [
                 "red"
             ],
@@ -31,7 +31,7 @@
            "y": {
                "beginAtZero": true,
                "title": {
-                   "text": "לחות 0-100%",
+                   "text": "Humidity 0-100%",
                    "display": true,
                    "font": {
                        "size": 16
@@ -47,7 +47,7 @@
                 },
                 "beginAtZero": true,
                 "title": {
-                    "text": "זמן - שעות",
+                    "text": "Time [h]",
                     "display": true,
                     "font": {
                         "size": 16

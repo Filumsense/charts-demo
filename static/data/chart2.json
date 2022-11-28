@@ -1,10 +1,10 @@
 {
    "data": {
-      "labels": [0,5,20,48,96,120,168,336,672],
+      "labels": [0,5,12,18,21,24,36,48,60],
       "datasets": [
           {
-              "label": "טמפרטורה בתוך האלמנט",
-              "data": [25,35,31,26,0,0,0,0,0],
+              "label": " Concrete Temp ",
+              "data": [25,23,31,28,0,0,0,0,0],
               "backgroundColor": [
                   "red"
               ],
@@ -14,8 +14,8 @@
               "borderWidth": 1
           },
           {
-            "label": "טמפרטורת הסביבה",
-            "data": [25,25,26,24,0,0,0,0,0],
+            "label": "Temp Outside",
+            "data": [25,24,24,25,0,0,0,0,0],
             "backgroundColor": [
                 "green"
             ],
@@ -31,7 +31,7 @@
            "y": {
                "beginAtZero": true,
                "title": {
-                   "text": "טמפרטורה (°C)",
+                   "text": "Temp (°C)",
                    "display": true,
                    "font": {
                        "size": 16
@@ -47,7 +47,7 @@
             },
             "beginAtZero": true,
             "title": {
-               "text": "זמן - שעות",
+               "text": "Time [h]",
                "display": true,
                "font": {
                   "size": 16
