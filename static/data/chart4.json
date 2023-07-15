@@ -4,7 +4,7 @@
       "datasets": [
         {
             "label": "SHM Index",
-            "data": [50,55,75,78,0,0,0,0,0,0],
+            "data": [0,0,0,0,0,0,0,0,0,0],
             "backgroundColor": [
                 "blue"
             ],
