@@ -3,24 +3,24 @@
       "labels": [0,5,12,18,21,24,36,48,60],
       "datasets": [
           {
-              "label": " Concrete Temp ",
-              "data": [25,23,31,28,0,0,0,0,0],
+              "label": " חיישן בתוך האלמנט 1 ",
+              "data": [0,0,0,0,0,0,0,0,0],
               "backgroundColor": [
-                  "red"
+                  "green"
               ],
               "borderColor": [
-                  "red"
+                  "green"
               ],
               "borderWidth": 1
           },
           {
-            "label": "Temp Outside",
-            "data": [25,24,24,25,0,0,0,0,0],
+            "label": "חיישן מדמה קוביה 2",
+            "data": [0,0,0,0,0,0,0,0,0],
             "backgroundColor": [
-                "green"
+                "red"
             ],
             "borderColor": [
-                "green"
+                "red"
             ],
             "borderWidth": 1
         }
