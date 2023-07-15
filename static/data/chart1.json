@@ -3,8 +3,8 @@
         "labels": [0,5,12,18,21,24,36,48,60],
         "datasets": [
             {
-                "label": "Sensor Data 1",
-                "data": [0,1,5,15,0,0,0,0,0],
+                "label": "חיישן בתוך האלמנט 1",
+                "data": [0],
                 "backgroundColor": [
                     "green"
                 ],
@@ -14,8 +14,8 @@
                 "borderWidth": 1
             },
             {
-                "label": "Press Result",
-                "data": [0,0,0,0,0,0,0,0,0],
+                "label": "חיישן בתוך הקופסא 2",
+                "data": [0],
                 "backgroundColor": [
                     "red"
                 ],
