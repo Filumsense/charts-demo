@@ -4,7 +4,7 @@
         "datasets": [
             {
                 "label": "חיישן בתוך האלמנט 1",
-                "data": [0,5,10,25,34],
+                "data": [0],
                 "backgroundColor": [
                     "green"
                 ],

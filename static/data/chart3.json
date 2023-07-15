@@ -4,7 +4,7 @@
        "datasets": [
            {
                "label": "Resistivity Index",
-               "data": [0,0,0,0,0,0,0,0,0],
+               "data": [0],
                "backgroundColor": [
                    "blue"
                ],
@@ -15,7 +15,7 @@
            },
            {
             "label": "Humidity Concrete Index",
-            "data": [0,0,0,0,0,0,0,0,0],
+            "data": [0],
             "backgroundColor": [
                 "red"
             ],

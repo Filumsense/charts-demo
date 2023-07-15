@@ -4,7 +4,7 @@
       "datasets": [
           {
               "label": " חיישן בתוך האלמנט 1 ",
-              "data": [0,0,0,0,0,0,0,0,0],
+              "data": [0],
               "backgroundColor": [
                   "green"
               ],
@@ -15,7 +15,7 @@
           },
           {
             "label": "חיישן מדמה קוביה 2",
-            "data": [0,0,0,0,0,0,0,0,0],
+            "data": [0],
             "backgroundColor": [
                 "red"
             ],
