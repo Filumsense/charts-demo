@@ -14,7 +14,7 @@
                 "borderWidth": 1
             },
             {
-                "label": "חיישן מדמה קובייה 2",
+                "label": "חיישן בתוך הקובייה 2",
                 "data": [0],
                 "backgroundColor": [
                     "red"
