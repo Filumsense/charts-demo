@@ -14,7 +14,7 @@
               "borderWidth": 1
           },
           {
-            "label": "חיישן מדמה קוביה 2",
+            "label": "חיישן בתוך הקוביה 2",
             "data": [0],
             "backgroundColor": [
                 "red"
